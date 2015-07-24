@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "working with coffee script basics",
   "author": "matt ray",
-  "devDependencies": {
+"repository": {
+    "type": "git",
+    "url": "https://github.com/stybba21/gulp-sass-coffee.git"
+  }
+  "devDependencies" :  {
     "gulp": "^3.9.0",
     "gulp-coffee": "^2.3.1",
     "gulp-concat": "^2.6.0",
